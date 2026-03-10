@@ -6,7 +6,8 @@ A responsive expense tracker built with React, Vite, and Tailwind CSS as part of
 [Add your link here after deploying]
 
 ## 📸 Screenshot
-[Add a screenshot after your app is running]
+C:\Users\okevi\Desktop\Internship Programme\@Syntecxhub\expense-tracker\src\assets\Screenshot 2026-03-04 055018.png
+C:\Users\okevi\Desktop\Internship Programme\@Syntecxhub\expense-tracker\src\assets\Screenshot 2026-03-04 055126.png
 
 ## 🛠️ Tech Stack
 - React 18
